@@ -2,25 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost/blog/</loc>
+    <loc>https://copy-cooper.github.io/blog/</loc>
     <lastmod>2022-11-12T23:10:01-08:00</lastmod>
   </url><url>
-    <loc>http://localhost/</loc>
+    <loc>https://copy-cooper.github.io/</loc>
     <lastmod>2022-11-12T23:10:01-08:00</lastmod>
   </url><url>
-    <loc>http://localhost/blog/case-study-easytrim/</loc>
+    <loc>https://copy-cooper.github.io/blog/case-study-easytrim/</loc>
     <lastmod>2022-11-12T23:10:01-08:00</lastmod>
   </url><url>
-    <loc>http://localhost/about/</loc>
+    <loc>https://copy-cooper.github.io/about/</loc>
   </url><url>
-    <loc>http://localhost/categories/</loc>
+    <loc>https://copy-cooper.github.io/categories/</loc>
   </url><url>
-    <loc>http://localhost/cv/</loc>
+    <loc>https://copy-cooper.github.io/cv/</loc>
   </url><url>
-    <loc>http://localhost/projects/</loc>
+    <loc>https://copy-cooper.github.io/projects/</loc>
   </url><url>
-    <loc>http://localhost/series/</loc>
+    <loc>https://copy-cooper.github.io/series/</loc>
   </url><url>
-    <loc>http://localhost/tags/</loc>
+    <loc>https://copy-cooper.github.io/tags/</loc>
   </url>
 </urlset>
