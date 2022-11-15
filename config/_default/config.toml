@@ -25,7 +25,7 @@ googleAnalytics = "G-MJKF3MJYS5"
   # soft medium hard, defaults to medium
   themeContrast = "hard"
   author = "Brandon Cooper"
-  subtitle = "Marketing & Communications Consultant"
+  subtitle = ""
   description = "Making an impact in today's hyper-connected world is tantamount to success. I help businesses thrive by taking a pragmatic approach to marketing based on data and analytics, then I share the results here for all to see!"
 
   [params.logo]
