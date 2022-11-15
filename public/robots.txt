@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://copy-cooper.github.io/sitemap.xml
