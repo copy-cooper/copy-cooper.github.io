@@ -1,0 +1,130 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Brandon Cooper",
+    "label": "Marketing & Communications Consultant",
+    "image": "/brandon-cooper.jpg",
+    "email": "me@brandoncooper.ca",
+    "phone": "(250) 317-0668",
+    "summary": "Connecting people and ideas through technology.",
+    "location": {
+      "city": "Canada, BC 🇨🇦"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "@copy-cooper",
+        "url": "https://www.linkedin.com/in/copy-cooper/"
+      },
+      {
+        "network": "Github",
+        "username": "@copy-cooper",
+        "url": "https://github.com/copy-cooper"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "ITFO Communications",
+      "location": "Canada",
+      "description": "Enterprise-scale content solutions",
+      "position": "Communications Strategist",
+      "url": "https://www.itfo.ca/",
+      "startDate": "2021-06",
+      "endDate": "Current",
+      "summary": "Providing data-driven insights to inform marketing campaigns and knowledge management (KM) for senior leaders of our Fortune 500 client organization.",
+      "highlights": [
+        "Planned and executed the implementation of an organization-wide knowledge management system",
+        "Created content on behalf of senior leaders for their personal publication",
+        "Developed a system in PowerApps to facilitate the access, organization, and tracking of completed RFIs",
+        "Adminstrated ABM web portals using WordPress, making updates to attract visits from client organizations"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Okanagan College",
+      "position": "Guest Lecturer",
+      "url": "https://www.okanagan.bc.ca/",
+      "startDate": "2021",
+      "endDate": "Current",
+      "summary": "Invited to lecture on marketing for students in the course CMNS 130: Introduction to Digital Media each semester."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Simon Fraser University",
+      "url": "https://www.sfu.ca/",
+      "area": "Communication",
+      "studyType": "Bachelor",
+      "startDate": "2017-06-01",
+      "endDate": "2020-06-01"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Azure AI Fundamentals",
+      "date": "2022-05",
+      "url": "https://www.credly.com/badges/09502559-21bc-4b39-b15d-d70d63e9b5c5",
+      "issuer": "Microsoft"
+    },
+    {
+      "name": "Azure Fundamentals",
+      "date": "2022-03",
+      "url": "https://www.credly.com/badges/2b2cf666-607c-4b69-83a9-8f0ca6e4f69a",
+      "issuer": "Microsoft"
+    },
+    {
+      "name": "Analytics & Ads",
+      "date": "2018",
+      "issuer": "Google"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Writing",
+      "level": "Expert"
+    },
+    {
+      "name": "Web Development",
+      "level": "Proficient",
+      "keywords": ["HTML", "CSS", "Javascript"]
+    },
+    {
+      "name": "SEO",
+      "level": "Expert",
+      "keywords": ["Technical", "On-Page", "Semantic Search"]
+    },
+    {
+      "name": "Graphic Design",
+      "level": "Capable",
+      "keywords": ["Adobe Photoshop", "Adobe Illustrator"]
+    },
+    {
+      "name": "Photography",
+      "level": "Capable",
+      "keywords": ["Adobe Lightroom", "Adobe Photoshop"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Coffee",
+      "keywords": ["Espresso", "Machiatto", "Cappuccino"]
+    },
+    {
+      "name": "Motorcycles",
+      "keywords": ["Yamaha", "2001 FZ1", "Inline-four"]
+    }
+  ],
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+    "version": "v1.0.0",
+    "lastModified": "2017-12-24T15:53:00"
+  }
+}
