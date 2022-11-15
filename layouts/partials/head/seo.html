@@ -1,9 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title></title>
-</head>
-<body>
+<head>
   {{ if eq .Kind "404" }}
   <meta name="robots" content="noindex, follow">{{ else }} {{ with
   .Params.robots }}
@@ -28,5 +26,5 @@
    {{ range .AlternativeOutputFormats }}
   <link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href=
   "{{ .RelPermalink }}" title="{{ $.Site.Title }}">{{ end }}
-</body>
+</head>
 </html>
