@@ -19,7 +19,15 @@
   {{ template "_internal/twitter_cards.html" . }} {{ template
   "_internal/opengraph.html" . }} {{ template
   "_internal/schema.html" . }} {{ template
-  "_internal/google_analytics.html" . }} <!-- RSS feed -->
+  "_internal/google_analytics.html" . }}
+    <script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-MJKF3MJYS5');
+    </script>
+<!-- RSS feed -->
 
   <!-- See https://gohugo.io/templates/rss/#reference-your-rss-feed-in-head -->
    {{ range .AlternativeOutputFormats }}
