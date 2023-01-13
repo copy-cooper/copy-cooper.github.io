@@ -18,7 +18,6 @@ Now I find myself filling out my repertoire in new and developing areas of digit
 Today, I'm a bit of a geek for productivity tools and personal information management (PIM) systems, which really just means I get a kick out of shaving two minutes off my morning routine, even if it costs me two hours upfront. I'm a firm believer in the power of Emacs with Vim keybindings. It's been my primary text editor, task manager, and time sink for longer than I care to admit. But it has proven itself invaluable, too, helping me to manage all aspects of my client's marketing efforts seamlessly. This website was made entirely inside Emacs, just one of its many uses in my day-to-day.
 
 ## License
+The content of this site is licensed under the [Creative Commons Attribution 4.0 International license](https://github.com/copy-cooper/copy-cooper.github.io/blob/main/content/LICENSE).
 
 This site was built with [Hugo](https://gohugo.io/) using the [Gruvbox theme](https://github.com/schnerring/hugo-theme-gruvbox/blob/main/LICENSE) by Michael Schnerring. The theme is [licensed under MIT](https://github.com/schnerring/hugo-theme-gruvbox/blob/main/LICENSE).
-
-The content of this site is licensed under the [Creative Commons Attribution 4.0 International license](https://github.com/copy-cooper/copy-cooper.github.io/blob/main/content/LICENSE).
