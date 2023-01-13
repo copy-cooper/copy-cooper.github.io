@@ -5,10 +5,9 @@
     "label": "Marketing & Communications Consultant",
     "image": "/brandon-cooper.jpg",
     "email": "me@brandoncooper.ca",
-    "phone": "(250) 317-0668",
     "summary": "Connecting people and ideas through technology.",
     "location": {
-      "city": "Canada, BC 🇨🇦"
+      "city": "Canada 🇨🇦 "
     },
     "profiles": [
       {
@@ -26,18 +25,64 @@
   "work": [
     {
       "name": "ITFO Communications",
-      "location": "Canada",
+      "location": "Victoria, BC (Remote)",
       "description": "Enterprise-scale content solutions",
       "position": "Communications Strategist",
-      "url": "https://www.itfo.ca/",
+      "url": "https://www.itfo.ca/#?",
       "startDate": "2021-06",
-      "endDate": "Current",
-      "summary": "Providing data-driven insights to inform marketing campaigns and knowledge management (KM) for senior leaders of our Fortune 500 client organization.",
+      "endDate": "Present",
+      "summary": "Providing data-driven insights to inform marketing campaigns and knowledge management (KM) projects for senior leaders of our Fortune 500 client organization.",
       "highlights": [
-        "Planned and executed the implementation of an organization-wide knowledge management system",
-        "Created content on behalf of senior leaders for their personal publication",
-        "Developed a system in PowerApps to facilitate the access, organization, and tracking of completed RFIs",
-        "Adminstrated ABM web portals using WordPress, making updates to attract visits from client organizations"
+        "Planned and executed the implementation of an organization-wide knowledge management system.",
+        "Created content on behalf of senior leaders for their personal publication.",
+        "Developed a system in PowerApps to facilitate the access, organization, and tracking of completed RFIs.",
+        "Adminstrated ABM web portals using WordPress, making updates to attract visits from client organizations."
+      ]
+    },
+    {
+      "name": "ElementIQ",
+      "location": "Vancouver, BC (Remote)",
+      "description": "Full-service marketing agency for SMBs",
+      "position": "Communications Strategist",
+      "url": "https://www.elementiq.com/",
+      "startDate": "2021-06",
+      "endDate": "2021-04",
+      "summary": "Worked closely with departmental leads to ensure a smooth transition for client services and team members. Retained during the sale of Lifeblood Marketing to ElementIQ, continuing as marketing lead for key accounts.",
+      "highlights": [
+        "Launched new marketing campaigns (inbound, outbound, growth) for key clients, focused on user experience and conversion-rate optimization.",
+        "Led the transition of client services following ElementIQ's acquisition of Lifeblood Marketing, developing new company-wide SOPs related to strategy, SEO, and content marketing."
+      ]
+    },
+    {
+      "name": "Lifeblood Marketing (Acquired)",
+      "location": "Kelowna, BC",
+      "description": "Botique marketing agency specializing in real estate",
+      "position": "Communications Strategist",
+      "url": "https://lifebloodmarketing.ca/",
+      "startDate": "2021-02",
+      "endDate": "2021-06",
+      "summary": "Supported a tight-knit team by structuring full-service marketing efforts across a wide range of channels. Led marketing strategy and program development for key accounts.",
+      "highlights": [
+        "Managed client's marketing strategies and deliverables including website management and SEO, social media marketing, content and email marketing (e.g., drip campaigns), and PPC.",
+        "Successfully developed largest client's marketing strategy, leading to an ongoing relationship that helped to support the sale of Lifeblood Marketing.",
+        "Led the restructuring process alongside the client service's lead during acquisition by ElementIQ."
+      ]
+    },
+    {
+      "name": "Hiilite",
+      "location": "Kelowna, BC",
+      "description": "Fast-paced marketing startup focused on growth",
+      "position": "Communications Manager",
+      "url": "https://www.hiilite.com/",
+      "startDate": "2017-03",
+      "endDate": "2020-02",
+      "summary": "Starting as Content Writer, I was quickly promoted to Communications Manager upon returning from university to work in-office. Both company revenue and number of FTEs more than tripled during my tenure.",
+      "highlights": [
+        " Developed content strategy to ensure consistent growth for small to medium-sized businesses across a wide range of industries",
+        "Established departmental roles and responsibilities, task descriptions, and time budgets to define measurable success",
+        "Produced and delivered marketing content for top-tier clients to increase conversions and improve user experience",
+        "Managed client relationships to further stakeholder buy-in",
+        "Conducted content workshops to foster interdepartmental growth"
       ]
     }
   ],
@@ -56,9 +101,9 @@
       "institution": "Simon Fraser University",
       "url": "https://www.sfu.ca/",
       "area": "Communication",
-      "studyType": "Bachelor",
-      "startDate": "2017-06-01",
-      "endDate": "2020-06-01"
+      "startDate": "2017",
+      "endDate": "2020",
+      "studyType": "Bachelor of Arts"
     }
   ],
   "certificates": [
@@ -82,28 +127,51 @@
   ],
   "skills": [
     {
-      "name": "Writing",
-      "level": "Expert"
-    },
-    {
-      "name": "Web Development",
-      "level": "Proficient",
-      "keywords": ["HTML", "CSS", "Javascript"]
+      "name": "Marketing",
+      "level": "Expert",
+      "keywords": ["ABM", "B2B", "B2C", "MarTech"]
     },
     {
       "name": "SEO",
       "level": "Expert",
-      "keywords": ["Technical", "On-Page", "Semantic Search"]
+      "keywords": ["Link Building", "On-Page", "Schema Markup", "Technical"]
+    },
+    {
+      "name": "Writing",
+      "level": "Expert",
+      "keywords": ["Coaching", "Copywriting", "Editing", "Technical Writing"]
+    },
+    {
+      "name": "Data & Analytics",
+      "level": "Proficient",
+      "keywords": ["BI", "Reporting", "SQL", "Visualizations"]
+    },
+    {
+      "name": "Information Architecture",
+      "level": "Proficient",
+      "keywords": ["Master Data Management", "RDF", "Semantic Search", "Taxonomies"]
+    },
+    {
+      "name": "Project Management",
+      "level": "Proficient"
+    },
+    {
+      "name": "UX Design",
+      "level": "Proficient",
+      "keywords": ["Accessibility", "Journey Mapping", "Wireframing"]
     },
     {
       "name": "Graphic Design",
-      "level": "Capable",
-      "keywords": ["Adobe Photoshop", "Adobe Illustrator"]
+      "level": "Capable"
     },
     {
-      "name": "Photography",
+      "name": "Photography & Videography",
+      "level": "Capable"
+    },
+    {
+      "name": "Web Development",
       "level": "Capable",
-      "keywords": ["Adobe Lightroom", "Adobe Photoshop"]
+      "keywords": ["HTML", "CSS", "JS"]
     }
   ],
   "languages": [

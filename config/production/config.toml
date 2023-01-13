@@ -1,8 +1,10 @@
-baseURL = "https://copy-cooper.github.io"
-copyright = "Copyright © 2023"
-title = "Brandon Cooper | Marketing & Communications Consultant"
+googleAnalytics = "G-MJKF3MJYS5"
+# baseURL = "https://copy-cooper.github.io/"
+# title = "Brandon Cooper | Marketing & Communications Consultant"
+# copyright = "Copyright © 2023"
 #paginate = 10
-enableRobotsTXT = true
+#enableRobotsTXT = true
+#enableEmoji = true
 
 [markup]
   [markup.goldmark]
@@ -10,7 +12,7 @@ enableRobotsTXT = true
       # This settings allows inlining <script> and <style> tags in markdown,
       # which is useful and required to use Prism plugins, but may be dangerous
       # if the content isn't trustworthy.
-      unsafe = true
+      # unsafe = true
 
 [imaging]
   # JPEG and WebP image processing quality, defaults to 75%
@@ -20,35 +22,35 @@ enableRobotsTXT = true
   # dark or light, defaults to light
   #defaultTheme = "light"
   # gray red green yellow blue purple aqua orange, defaults to blue
-  themeColor = "green"
+  #themeColor = "green"
   # soft medium hard, defaults to medium
-  themeContrast = "hard"
+  #themeContrast = "hard"
   #author = "Michael Schnerring"
   #subtitle = "Theme"
   #description = "A retro-looking Hugo theme inspired by gruvbox. The pastel colors are high contrast, easily distinguishable, pleasing to the eye, and feature light and dark color palettes."
 
   [params.logo]
-    text = "cooper"
-    url = "/"
+    #text = "cooper"
+    #url = "/"
 
   [params.prism]
-    languages = [
-      "markup",
-      "css",
-      "clike",
-      "javascript",
-      "bash",
-      "diff",
-      "toml"
-    ]
-    plugins = [
-      "normalize-whitespace",
-      "toolbar",
-      "copy-to-clipboard",
-      "line-numbers",
-      "command-line",
-      "diff-highlight"
-    ]
+    # languages = [
+    #   "markup",
+    #   "css",
+    #   "clike",
+    #   "javascript",
+    #   "bash",
+    #   "diff",
+    #   "toml"
+    # ]
+    # plugins = [
+    #   "normalize-whitespace",
+    #   "toolbar",
+    #   "copy-to-clipboard",
+    #   "line-numbers",
+    #   "command-line",
+    #   "diff-highlight"
+    # ]
 
   # By default, the theme creates resized versions of images ranging from 300 to
   # 700 pixels wide in increments of 100 pixels
@@ -63,83 +65,83 @@ enableRobotsTXT = true
   #   - {url} placeholder for post .Permalink
   #   - {title} placeholder for post .Title
   # See  https://github.com/bradvin/social-share-urls for more format strings
-  [[params.socialShare]]
-    iconSuite = "simple-icon"
-    iconName = "facebook"
-    formatString = "https://www.facebook.com/sharer.php?u={url}"
-  [[params.socialShare]]
-    iconSuite = "simple-icon"
-    iconName = "reddit"
-    formatString = "https://reddit.com/submit?url={url}&title={title}"
-  [[params.socialShare]]
-    iconSuite = "simple-icon"
-    iconName = "twitter"
-    formatString = "https://twitter.com/intent/tweet?url={url}&text={title}"
-  [[params.socialShare]]
-    iconSuite = "simple-icon"
-    iconName = "linkedin"
-    formatString = "https://www.linkedin.com/sharing/share-offsite/?url={url}"
-  [[params.socialShare]]
-    iconSuite = "simple-icon"
-    iconName = "whatsapp"
-    formatString = "whatsapp://send/?text={title}%20{url}"
-  [[params.socialShare]]
-    iconSuite = "simple-icon"
-    iconName = "tumblr"
-    formatString = "https://www.tumblr.com/widgets/share/tool?canonicalUrl={url}&title={title}&caption={title}"
-  [[params.socialShare]]
-    iconSuite = "simple-icon"
-    iconName = "pinterest"
-    formatString = "http://pinterest.com/pin/create/button/?url={url}"
-  [[params.socialShare]]
-    iconSuite = "simple-icon"
-    iconName = "ycombinator"
-    formatString = "https://news.ycombinator.com/submitlink?u={url}&t={title}"
-  [[params.socialShare]]
-    iconSuite = "simple-icon"
-    iconName = "vk"
-    formatString = "http://vk.com/share.php?url={url}&title={title}&comment={title}"
-  [[params.socialShare]]
-    iconSuite = "simple-icon"
-    iconName = "xing"
-    formatString = "https://www.xing.com/spi/shares/new?url={url}"
-  [[params.socialShare]]
-    iconSuite = "simple-icon"
-    iconName = "telegram"
-    formatString = "https://telegram.me/share/url?url={url}&text={title}"
-  [[params.socialShare]]
-    iconSuite = "tabler-icon"
-    iconName = "mail"
-    formatString = "mailto:?subject={title}&body={url}"
+#   [[params.socialShare]]
+#     iconSuite = "simple-icon"
+#     iconName = "facebook"
+#     formatString = "https://www.facebook.com/sharer.php?u={url}"
+#   [[params.socialShare]]
+#     iconSuite = "simple-icon"
+#     iconName = "reddit"
+#     formatString = "https://reddit.com/submit?url={url}&title={title}"
+#   [[params.socialShare]]
+#     iconSuite = "simple-icon"
+#     iconName = "twitter"
+#     formatString = "https://twitter.com/intent/tweet?url={url}&text={title}"
+#   [[params.socialShare]]
+#     iconSuite = "simple-icon"
+#     iconName = "linkedin"
+#     formatString = "https://www.linkedin.com/sharing/share-offsite/?url={url}"
+#   [[params.socialShare]]
+#     iconSuite = "simple-icon"
+#     iconName = "whatsapp"
+#     formatString = "whatsapp://send/?text={title}%20{url}"
+#   [[params.socialShare]]
+#     iconSuite = "simple-icon"
+#     iconName = "tumblr"
+#     formatString = "https://www.tumblr.com/widgets/share/tool?canonicalUrl={url}&title={title}&caption={title}"
+#   [[params.socialShare]]
+#     iconSuite = "simple-icon"
+#     iconName = "pinterest"
+#     formatString = "http://pinterest.com/pin/create/button/?url={url}"
+#   [[params.socialShare]]
+#     iconSuite = "simple-icon"
+#     iconName = "ycombinator"
+#     formatString = "https://news.ycombinator.com/submitlink?u={url}&t={title}"
+#   [[params.socialShare]]
+#     iconSuite = "simple-icon"
+#     iconName = "vk"
+#     formatString = "http://vk.com/share.php?url={url}&title={title}&comment={title}"
+#   [[params.socialShare]]
+#     iconSuite = "simple-icon"
+#     iconName = "xing"
+#     formatString = "https://www.xing.com/spi/shares/new?url={url}"
+#   [[params.socialShare]]
+#     iconSuite = "simple-icon"
+#     iconName = "telegram"
+#     formatString = "https://telegram.me/share/url?url={url}&text={title}"
+#   [[params.socialShare]]
+#     iconSuite = "tabler-icon"
+#     iconName = "mail"
+#     formatString = "mailto:?subject={title}&body={url}"
 
-[menu]
-  [[menu.main]]
-    identifier = "blog"
-    name = "Blog"
-    url = "/blog"
-    weight = 10
+# [menu]
+#   [[menu.main]]
+#     identifier = "blog"
+#     name = "Blog"
+#     url = "/blog"
+#     weight = 10
 #  [[menu.main]]
 #    identifier = "projects"
 #    name = "Projects"
 #    url = "/projects"
 #    weight = 20
-  [[menu.main]]
-    identifier = "cv"
-    name = "CV"
-    url = "/cv"
-    weight = 30
-  [[menu.main]]
-    identifier = "about"
-    name = "About"
-    url = "/about"
-    weight = 40
+#   [[menu.main]]
+#     identifier = "cv"
+#     name = "CV"
+#     url = "/cv"
+#     weight = 30
+#   [[menu.main]]
+#     identifier = "about"
+#     name = "About"
+#     url = "/about"
+#     weight = 40
 
-[languages]
-  [languages.en]
-    languageName = "English"
-    weight = 10
-    [languages.en.params.jsonResume]
-      present = "present"
+# [languages]
+#   [languages.en]
+#     languageName = "English"
+#     weight = 10
+#     [languages.en.params.jsonResume]
+#       present = "present"
 #  [languages.de]
 #    languageName = "Deutsch"
 #    weight = 20

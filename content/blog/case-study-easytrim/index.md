@@ -1,5 +1,12 @@
 +++
 title = "Projects: EasyTrim Reveals, QuickPanel, & FastPlank"
+tags = [
+    "writing",
+    "seo",
+    "ux",
+]
+categories = ["Projects"]
+series = ["Case Studies"]
 lastmod = 2022-11-12T23:10:01-08:00
 draft = false
 +++
@@ -7,8 +14,6 @@ draft = false
 {{< video src="case-study-easytrim" autoplay="true" controls="true" loop="true" >}}
 
 Client: Engage Building Products
-
-Services: Content Writing, SEO, UX
 
 Completion Date: 2021-10-01
 
@@ -22,4 +27,4 @@ We broke these user segments out into a few distinct groups: builders, homeowner
 
 This process was completed for each of the three major product categories for Engage Building Products—EasyTrim Reveals, QuickPanel, and FastPlank—all together ensuring that their business lines could rank well on Google for their own keywords while avoiding the keyword cannibalization that can occur when two pages on the same website contain overlapping information.
 
-See these sites live at [easytrimreveals.com](https://easytrimreveals.com/), [quickpanels.com](https://quickpanels.com/), and [fastplank.com](https://fastplank.com/).
+See these sites live at [easytrimreveals.com](https://easytrimreveals.com/#?), [quickpanels.com](https://quickpanels.com/#?), and [fastplank.com](https://fastplank.com/#?).

@@ -1,9 +1,9 @@
 baseURL = "https://copy-cooper.github.io/"
+title = "Brandon Cooper | Marketing & Communications Consultant"
 copyright = "Copyright © 2023"
-title = "Brandon Cooper"
 #paginate = 10
 enableRobotsTXT = true
-googleAnalytics = "G-MJKF3MJYS5"
+enableEmoji = true
 
 [markup]
   [markup.goldmark]

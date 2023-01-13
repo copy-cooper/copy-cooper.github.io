@@ -1,6 +1,6 @@
 header {
   display: grid;
-  font-family: var(--font-monospace);
+  font-family: var(--font-serif);
   font-size: 1.125rem;
   grid-template-columns: auto auto 1fr auto;
   grid-template-areas: "heading search nav theme-toggle";
