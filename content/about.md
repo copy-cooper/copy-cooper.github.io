@@ -21,4 +21,4 @@ Today, I'm a bit of a geek for productivity tools and personal information manag
 
 This site was built with [Hugo](https://gohugo.io/) using the [Gruvbox theme](https://github.com/schnerring/hugo-theme-gruvbox/blob/main/LICENSE) by Michael Schnerring. The theme is [licensed under MIT](https://github.com/schnerring/hugo-theme-gruvbox/blob/main/LICENSE).
 
-The source code is licensed under the [MIT license](https://github.com/schnerring/schnerring.github.io/blob/main/LICENSE) and content is licensed under the [Creative Commons Attribution 4.0 International license](https://github.com/copy-cooper/copy-cooper.github.io/blob/main/content/LICENSE). They can both be viewed on [Github](https://github.com/copy-cooper/copy-cooper.github.io/blob/main/content/LICENSE) where this site is also hosted.
+The content of this site is licensed under the [Creative Commons Attribution 4.0 International license](https://github.com/copy-cooper/copy-cooper.github.io/blob/main/content/LICENSE).
