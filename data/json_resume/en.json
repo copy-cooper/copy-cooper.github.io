@@ -1,198 +1,146 @@
 {
-  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
-  "basics": {
-    "name": "Brandon Cooper",
-    "label": "Marketing & Communications Consultant",
-    "image": "/brandon-cooper.jpg",
-    "email": "me@brandoncooper.ca",
-    "summary": "Connecting people and ideas through technology.",
-    "location": {
-      "city": "Canada 🇨🇦 "
-    },
-    "profiles": [
-      {
-        "network": "LinkedIn",
-        "username": "@copy-cooper",
-        "url": "https://www.linkedin.com/in/copy-cooper/"
-      },
-      {
-        "network": "Github",
-        "username": "@copy-cooper",
-        "url": "https://github.com/copy-cooper"
-      }
-    ]
-  },
-  "work": [
-    {
-      "name": "ITFO Communications",
-      "location": "Victoria, BC (Remote)",
-      "description": "Enterprise-scale content solutions",
-      "position": "Communications Strategist",
-      "url": "https://www.itfo.ca/#?",
-      "startDate": "2021-06",
-      "endDate": "Present",
-      "summary": "Providing data-driven insights to inform marketing campaigns and knowledge management (KM) projects for senior leaders of our Fortune 500 client organization.",
-      "highlights": [
-        "Planned and executed the implementation of an organization-wide knowledge management system.",
-        "Created content on behalf of senior leaders for their personal publication.",
-        "Developed a system in PowerApps to facilitate the access, organization, and tracking of completed RFIs.",
-        "Adminstrated ABM web portals using WordPress, making updates to attract visits from client organizations."
-      ]
-    },
-    {
-      "name": "ElementIQ",
-      "location": "Vancouver, BC (Remote)",
-      "description": "Full-service marketing agency for SMBs",
-      "position": "Communications Strategist",
-      "url": "https://www.elementiq.com/",
-      "startDate": "2021-06",
-      "endDate": "2021-04",
-      "summary": "Worked closely with departmental leads to ensure a smooth transition for client services and team members. Retained during the sale of Lifeblood Marketing to ElementIQ, continuing as marketing lead for key accounts.",
-      "highlights": [
-        "Launched new marketing campaigns (inbound, outbound, growth) for key clients, focused on user experience and conversion-rate optimization.",
-        "Led the transition of client services following ElementIQ's acquisition of Lifeblood Marketing, developing new company-wide SOPs related to strategy, SEO, and content marketing."
-      ]
-    },
-    {
-      "name": "Lifeblood Marketing (Acquired)",
-      "location": "Kelowna, BC",
-      "description": "Botique marketing agency specializing in real estate",
-      "position": "Communications Strategist",
-      "url": "https://lifebloodmarketing.ca/",
-      "startDate": "2021-02",
-      "endDate": "2021-06",
-      "summary": "Supported a tight-knit team by structuring full-service marketing efforts across a wide range of channels. Led marketing strategy and program development for key accounts.",
-      "highlights": [
-        "Managed client's marketing strategies and deliverables including website management and SEO, social media marketing, content and email marketing (e.g., drip campaigns), and PPC.",
-        "Successfully developed largest client's marketing strategy, leading to an ongoing relationship that helped to support the sale of Lifeblood Marketing.",
-        "Led the restructuring process alongside the client service's lead during acquisition by ElementIQ."
-      ]
-    },
-    {
-      "name": "Hiilite",
-      "location": "Kelowna, BC",
-      "description": "Fast-paced marketing startup focused on growth",
-      "position": "Communications Manager",
-      "url": "https://www.hiilite.com/",
-      "startDate": "2017-03",
-      "endDate": "2020-02",
-      "summary": "Starting as Content Writer, I was quickly promoted to Communications Manager upon returning from university to work in-office. Both company revenue and number of FTEs more than tripled during my tenure.",
-      "highlights": [
-        " Developed content strategy to ensure consistent growth for small to medium-sized businesses across a wide range of industries",
-        "Established departmental roles and responsibilities, task descriptions, and time budgets to define measurable success",
-        "Produced and delivered marketing content for top-tier clients to increase conversions and improve user experience",
-        "Managed client relationships to further stakeholder buy-in",
-        "Conducted content workshops to foster interdepartmental growth"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Okanagan College",
-      "position": "Guest Lecturer",
-      "url": "https://www.okanagan.bc.ca/",
-      "startDate": "2021",
-      "endDate": "Current",
-      "summary": "Invited to lecture on marketing for students in the course CMNS 130: Introduction to Digital Media each semester."
-    }
-  ],
-  "education": [
-    {
-      "institution": "Simon Fraser University",
-      "url": "https://www.sfu.ca/",
-      "area": "Communication",
-      "startDate": "2017",
-      "endDate": "2020",
-      "studyType": "Bachelor of Arts"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Azure AI Fundamentals",
-      "date": "2022-05",
-      "url": "https://www.credly.com/badges/09502559-21bc-4b39-b15d-d70d63e9b5c5",
-      "issuer": "Microsoft"
-    },
-    {
-      "name": "Azure Fundamentals",
-      "date": "2022-03",
-      "url": "https://www.credly.com/badges/2b2cf666-607c-4b69-83a9-8f0ca6e4f69a",
-      "issuer": "Microsoft"
-    },
-    {
-      "name": "Analytics & Ads",
-      "date": "2018",
-      "issuer": "Google"
-    }
-  ],
-  "skills": [
-    {
-      "name": "Marketing",
-      "level": "Expert",
-      "keywords": ["ABM", "B2B", "B2C", "MarTech"]
-    },
-    {
-      "name": "SEO",
-      "level": "Expert",
-      "keywords": ["Link Building", "On-Page", "Schema Markup", "Technical"]
-    },
-    {
-      "name": "Writing",
-      "level": "Expert",
-      "keywords": ["Coaching", "Copywriting", "Editing", "Technical Writing"]
-    },
-    {
-      "name": "Data & Analytics",
-      "level": "Proficient",
-      "keywords": ["BI", "Reporting", "SQL", "Visualizations"]
-    },
-    {
-      "name": "Information Architecture",
-      "level": "Proficient",
-      "keywords": ["Master Data Management", "RDF", "Semantic Search", "Taxonomies"]
-    },
-    {
-      "name": "Project Management",
-      "level": "Proficient"
-    },
-    {
-      "name": "UX Design",
-      "level": "Proficient",
-      "keywords": ["Accessibility", "Journey Mapping", "Wireframing"]
-    },
-    {
-      "name": "Graphic Design",
-      "level": "Capable"
-    },
-    {
-      "name": "Photography & Videography",
-      "level": "Capable"
-    },
-    {
-      "name": "Web Development",
-      "level": "Capable",
-      "keywords": ["HTML", "CSS", "JS"]
-    }
-  ],
-  "languages": [
-    {
-      "language": "English",
-      "fluency": "Native speaker"
-    }
-  ],
-  "interests": [
-    {
-      "name": "Coffee",
-      "keywords": ["Espresso", "Machiatto", "Cappuccino"]
-    },
-    {
-      "name": "Motorcycles",
-      "keywords": ["Yamaha", "2001 FZ1", "Inline-four"]
-    }
-  ],
-  "meta": {
-    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
-    "version": "v1.0.0",
-    "lastModified": "2017-12-24T15:53:00"
-  }
+"$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+"basics": {
+"name": "Brandon Cooper",
+"label": "Marketing & Communications",
+"image": "https://avatars.githubusercontent.com/u/63139209",
+"website": "https://brandoncooper.ca",
+"email": "me@brandoncooper.ca",
+"location": {
+    "city": "Whitehorse, YT",
+    "countryCode": "CA"
 }
+},
+"education": [
+{
+"institution": "Simon Fraser University",
+"studyType": "Bachelor of Arts",
+"area": "Communication"
+}
+],
+"work": [
+{
+"position": "Senior Manager, Marketing & Communications",
+"name": "Northwestel",
+"startDate": "2024-05",
+"highlights": [
+    "Directed marketing campaign strategy to build value in the customer lifecycle.",
+    "Developed processes to substantially reduce onboarding time and foster collaboration.",
+    "Managed the marketing team to deliver on targets and commitments to stakeholders.",
+    "Redefined the marketing mix with a greater focus on local media and in-community ad placements."
+    ],
+"website": "https://nwtel.ca"
+},
+{"position": "Marketing Manager",
+"name": "Northwestel",
+"startDate": "2023-03",
+"endDate": "2024-05",
+"highlights": [
+    "Pitched and led the implementation of marketing automation to improve user experience and grow new product lines with real-time emails and SMS based on interaction data.",
+    "Built DTC email strategy for targeted campaigns, leading to a notable spike in ARPU.",
+    "Created marketing campaigns for new product launches, driving early-stage growth for both IPTV and whole home Wi-Fi solutions.",
+    "Identified opportunities to improve email security, leading to adoption of new corporate DNS security policies.",
+    "Developed benchmark KPIs for ongoing tracking and improvement of ads, SEO, and email campaign performance."
+    ],
+"website": "https://nwtel.ca"
+},
+{
+"position": "Communications Strategist",
+"name": "ITFO Communications",
+"startDate": "2021-06",
+"endDate": "2023-03",
+"highlights": [
+    "Provided insights and thought leadership content for client’s senior leaders on B2B marketing, information architecture, content management, and UX for web portals.",
+    "Produced and deliver presentations to gain support and buy-in from key stakeholders across programs.",
+    "Managed the design, implementation, service delivery, and user adoption of an enterprise-scale information management system.",
+    "Analyzed marketing channels using PowerBI to identify opportunities for buyer engagement and corporate sales teams."
+    ],
+"website": "https//itfo.ca"
+},
+{
+"position": "Communications Strategist",
+"name": "ElementIQ",
+"startDate": "2021-05",
+"endDate": "2021-06",
+"highlights": [
+    "Facilitated the transition of all client services following ElementIQ’s acquisition of Lifeblood Marketing.",
+    "Aided the development of new company-wide SOPs related to strategy, SEO, and content marketing. Provided insight into effective reporting, creating continuity and growth in the lifecycle of client services’ recurring programs."
+    ],
+"website": "https://elementiq.com"
+},
+{
+"position": "Communications Strategist",
+"name": "Lifeblood Marketing (Acquired)",
+"startDate": "2021-02",
+"endDate": "2021-05",
+"highlights": [
+    "Produced growth marketing deliverables to increase clients’ website traffic, social followings, SEO, and conversions. Leveraged analytics data to ensure responsive decision-making.",
+    "Successfully grew client retainers through value-oriented presentations and proposals."
+    ],
+"website": "https://lifebloodmarketing.ca"
+},
+{
+"position": "Communications Manager",
+"name": "Hiilite Creative Group",
+"startDate": "2017-03",
+"endDate": "2020-02",
+"highlights": [
+    "Developed content strategy to ensure consistent growth for small to medium businesses across a wide range of industries. Conducted content workshops to foster interdepartmental growth.",
+    "Established departmental roles and responsibilities, task descriptions, and time budgets to define measurable success.",
+    "Played key role in growing annual revenue from under $1M to over $3M CAD."
+],
+"website": "https://hiilite.com"
+}
+],
+"volunteer": [
+{
+"organization": "Okanagan College",
+"position": "Guest Lecturer",
+"url": "https://www.okanagan.bc.ca/arts/communications/department-of-communications",
+"startDate": "2021-08",
+"summary": "Each year, I provide a lecture for students studying Communications about the professional communications landscape and the trends shaping how businesses communicate with, and through, people."
+}
+],
+    "skills": [
+        {
+        "name": "Expertise",
+        "keywords": [
+            "Account-based Marketing (ABM)",
+            "Branding",
+            "Change Management",
+            "Content Marketing",
+            "Conversion-rate Optimization",
+            "Data & Analytics",
+            "Design Thinking",
+            "Email Marketing",
+            "Information Architecture (IA)",
+            "Marketing Automation",
+            "PPC Advertising",
+            "Product Marketing",
+            "Project Management",
+            "Public Relations",
+            "Search Engine Optimization (SEO)",
+            "Sentiment Analysis (GPT)",
+            "User Experience (UX)",
+            "Web Design"
+        ]
+       },
+        {
+           "name": "Tools",
+           "keywords": [
+               "Adobe Creative Cloud",
+               "HTML, CSS, JS",
+               "Google & Meta Ads",
+               "Google Analytics 4",
+               "Google Search Console",
+               "Microsoft Azure",
+               "Microsoft Dynamics",
+               "Microsoft Office",
+               "Microsoft PowerBI",
+               "MJML",
+               "Salesforce Marketing Cloud"
+           ]
+       }
+    ]
+}
+
