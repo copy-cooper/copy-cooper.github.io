@@ -6,12 +6,9 @@
 "image": "/brandon-cooper.jpg",
 "website": "https://brandoncooper.ca",
 "email": "me@brandoncooper.ca",
-"location": {
-    "city": "Whitehorse, YT",
-    "countryCode": "CA"
 "summary": "Connecting people and ideas through technology.",
 "location": {
-    "city": "Canada 🇨🇦 "
+    "city": "Whitehorse, YT, Canada 🇨🇦"
 },
 "profiles": [
     {
@@ -26,13 +23,15 @@
     }
 ]
 },
+{
 "education": [
 {
 "institution": "Simon Fraser University",
 "studyType": "Bachelor of Arts",
 "area": "Communication"
-}
-],
+},
+]
+},
 "work": [
 {
 "position": "Senior Manager, Marketing & Communications",
@@ -46,7 +45,8 @@
     ],
 "website": "https://nwtel.ca"
 },
-{"position": "Marketing Manager",
+{
+"position": "Marketing Manager",
 "name": "Northwestel",
 "startDate": "2023-03",
 "endDate": "2024-05",
