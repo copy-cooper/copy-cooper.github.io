@@ -23,6 +23,7 @@
     }
 ]
 },
+{
 "education": [
 {
 "institution": "Simon Fraser University",
@@ -30,8 +31,7 @@
 "area": "Communication"
 },
 ]
-}
-{
+},
 "work": [
 {
 "position": "Senior Manager, Marketing & Communications",
@@ -158,4 +158,3 @@
        }
     ]
 }
-
