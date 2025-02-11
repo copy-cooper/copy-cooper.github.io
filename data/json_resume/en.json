@@ -3,13 +3,28 @@
 "basics": {
 "name": "Brandon Cooper",
 "label": "Marketing & Communications",
-"image": "https://avatars.githubusercontent.com/u/63139209",
+"image": "/brandon-cooper.jpg",
 "website": "https://brandoncooper.ca",
 "email": "me@brandoncooper.ca",
 "location": {
     "city": "Whitehorse, YT",
     "countryCode": "CA"
-}
+"summary": "Connecting people and ideas through technology.",
+"location": {
+    "city": "Canada 🇨🇦 "
+},
+"profiles": [
+    {
+    "network": "LinkedIn",
+    "username": "@copy-cooper",
+    "url": "https://www.linkedin.com/in/copy-cooper/"
+    },
+    {
+    "network": "Github",
+    "username": "@copy-cooper",
+    "url": "https://github.com/copy-cooper"
+    }
+]
 },
 "education": [
 {
