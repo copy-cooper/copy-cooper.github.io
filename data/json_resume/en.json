@@ -27,7 +27,9 @@
 {
 "institution": "Simon Fraser University",
 "studyType": "Bachelor of Arts",
-"area": "Communication"
+"area": "Communication",
+"startDate": "2017-01",
+"endDate": "2020-06"
 }
 ],
 "work": [
@@ -35,17 +37,19 @@
 "position": "Senior Manager, Marketing & Communications",
 "name": "Northwestel",
 "startDate": "2024-05",
+"endDate": "Present",
 "highlights": [
     "Directed marketing campaign strategy to build value in the customer lifecycle.",
     "Developed processes to substantially reduce onboarding time and foster collaboration.",
     "Managed the marketing team to deliver on targets and commitments to stakeholders.",
     "Redefined the marketing mix with a greater focus on local media and in-community ad placements."
     ],
-"website": "https://nwtel.ca"
+"url": "https://nwtel.ca"
 },
 {
 "position": "Marketing Manager",
 "name": "Northwestel",
+"location": "Whitehorse, YT",
 "startDate": "2023-03",
 "endDate": "2024-05",
 "highlights": [
@@ -55,11 +59,12 @@
     "Identified opportunities to improve email security, leading to adoption of new corporate DNS security policies.",
     "Developed benchmark KPIs for ongoing tracking and improvement of ads, SEO, and email campaign performance."
     ],
-"website": "https://nwtel.ca"
+"url": "https://nwtel.ca"
 },
 {
 "position": "Communications Strategist",
 "name": "ITFO Communications",
+"location": "Victoria, BC (Remote)",
 "startDate": "2021-06",
 "endDate": "2023-03",
 "highlights": [
@@ -68,33 +73,36 @@
     "Managed the design, implementation, service delivery, and user adoption of an enterprise-scale information management system.",
     "Analyzed marketing channels using PowerBI to identify opportunities for buyer engagement and corporate sales teams."
     ],
-"website": "https//itfo.ca"
+"url": "https//itfo.ca"
 },
 {
 "position": "Communications Strategist",
 "name": "ElementIQ",
+"location": "Kelowna, BC (Remote)",
 "startDate": "2021-05",
 "endDate": "2021-06",
 "highlights": [
     "Facilitated the transition of all client services following ElementIQ’s acquisition of Lifeblood Marketing.",
     "Aided the development of new company-wide SOPs related to strategy, SEO, and content marketing. Provided insight into effective reporting, creating continuity and growth in the lifecycle of client services’ recurring programs."
     ],
-"website": "https://elementiq.com"
+"url": "https://elementiq.com"
 },
 {
 "position": "Communications Strategist",
 "name": "Lifeblood Marketing (Acquired)",
+"location": "Kelowna, BC (Remote)",
 "startDate": "2021-02",
 "endDate": "2021-05",
 "highlights": [
     "Produced growth marketing deliverables to increase clients’ website traffic, social followings, SEO, and conversions. Leveraged analytics data to ensure responsive decision-making.",
     "Successfully grew client retainers through value-oriented presentations and proposals."
     ],
-"website": "https://lifebloodmarketing.ca"
+"url": "https://lifebloodmarketing.ca"
 },
 {
 "position": "Communications Manager",
-"name": "Hiilite Creative Group",
+"name": "Hiilite",
+"location": "Kelowna, BC",
 "startDate": "2017-03",
 "endDate": "2020-02",
 "highlights": [
@@ -114,46 +122,59 @@
 "summary": "Each year, I provide a lecture for students studying Communications about the professional communications landscape and the trends shaping how businesses communicate with, and through, people."
 }
 ],
-    "skills": [
-        {
-        "name": "Expertise",
-        "keywords": [
-            "Account-based Marketing (ABM)",
-            "Branding",
-            "Change Management",
-            "Content Marketing",
-            "Conversion-rate Optimization",
-            "Data & Analytics",
-            "Design Thinking",
-            "Email Marketing",
-            "Information Architecture (IA)",
-            "Marketing Automation",
-            "PPC Advertising",
-            "Product Marketing",
-            "Project Management",
-            "Public Relations",
-            "Search Engine Optimization (SEO)",
-            "Sentiment Analysis (GPT)",
-            "User Experience (UX)",
-            "Web Design"
-        ]
-       },
-        {
-           "name": "Tools",
-           "keywords": [
-               "Adobe Creative Cloud",
-               "HTML, CSS, JS",
-               "Google & Meta Ads",
-               "Google Analytics 4",
-               "Google Search Console",
-               "Microsoft Azure",
-               "Microsoft Dynamics",
-               "Microsoft Office",
-               "Microsoft PowerBI",
-               "MJML",
-               "Salesforce Marketing Cloud"
-           ]
-       }
-    ]
+"skills": [
+    {
+      "name": "Marketing",
+      "level": "Expert",
+      "keywords": ["ABM", "B2B", "B2C", "MarTech"]
+    },
+    {
+      "name": "SEO",
+      "level": "Expert",
+      "keywords": ["Link Building", "On-Page", "Schema Markup", "Technical"]
+    },
+    {
+      "name": "Writing",
+      "level": "Expert",
+      "keywords": ["Coaching", "Copywriting", "Editing", "Technical Writing"]
+    },
+    {
+      "name": "Data & Analytics",
+      "level": "Proficient",
+      "keywords": ["BI", "Reporting", "SQL", "Visualizations"]
+    },
+    {
+      "name": "Information Architecture",
+      "level": "Proficient",
+      "keywords": ["Master Data Management", "RDF", "Semantic Search", "Taxonomies"]
+    },
+    {
+      "name": "Project Management",
+      "level": "Proficient"
+    },
+    {
+      "name": "UX Design",
+      "level": "Proficient",
+      "keywords": ["Accessibility", "Journey Mapping", "Wireframing"]
+    },
+    {
+      "name": "Graphic Design",
+      "level": "Capable"
+    },
+    {
+      "name": "Photography & Videography",
+      "level": "Capable"
+    },
+    {
+      "name": "Web Development",
+      "level": "Capable",
+      "keywords": ["HTML", "CSS", "JS"]
+    }
+  ],
+    "interests": [
+    {
+      "name": "Motorcycles 🏍️",
+      "keywords": ["Yamaha", "2001 FZ1", "Inline-four"]
+    }
+  ],
 }
-
